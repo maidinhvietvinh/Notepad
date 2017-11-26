@@ -1,8 +1,12 @@
 ---
-layout: page
-permalink: /hossain-mohd-faysal/index.html
 title: HOSSAIN MOHAMMAD FAYSAL
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+permalink: "/hossain-mohd-faysal/index.html"
+layout: page
+tags:
+- Hossain
+- Mohd
+- Faysal
+- hmfaysal
 image:
   feature: Hossain-Mohd-Faysal.jpg
 ---

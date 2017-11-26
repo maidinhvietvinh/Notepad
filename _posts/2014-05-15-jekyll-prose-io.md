@@ -1,14 +1,15 @@
 ---
-layout: post
-published: true
 title: Jekyll + Prose.io
+date: 2014-05-15 00:00:00 Z
+categories:
+- webdevelopment
+tags:
+- jekyll
+layout: post
 mathjax: false
 featured: true
 comments: false
 headline: Making blogging easier for masses
-categories: 
-  - webdevelopment
-tags: jekyll
 ---
 
 Nothing beats Medium when it comes to blogging. Its overly simplistic, minimal and its true WYSIWYG editor put itself ahead of the races. But there comes a time, when you might need a self hosted blog. Maybe its for a project, or as it was for me, I needed something static to be hosted in my University’s servers.
